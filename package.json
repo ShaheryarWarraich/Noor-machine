@@ -1,0 +1,1 @@
+{"name":"noor-machine-website","version":"1.0.0","private":true,"description":"Noor & Machine landing website.","scripts":{"start":"vite --host 0.0.0.0","dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"devDependencies":{"vite":"^5.4.11"}}
